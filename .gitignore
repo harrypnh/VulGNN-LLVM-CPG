@@ -8,3 +8,4 @@ dataset/llvm_ir/
 .vscode/
 .ipynb_checkpoints
 __pycache__/
+dataset/cpg_dataset/*
