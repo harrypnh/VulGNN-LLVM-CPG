@@ -1,7 +1,6 @@
 .DS_Store
 *.gz
 *.model*
-*.pt
 dataset/repo_clone
 dataset/error_dump
 dataset/cpg/
