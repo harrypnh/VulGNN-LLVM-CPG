@@ -1,0 +1,14 @@
+.DS_Store
+*.zip
+*.gz
+*.model*
+*.pt
+*.pkl
+dataset/repo_clone
+dataset/error_dump
+dataset/cpg/
+dataset/llvm_ir/
+.vscode/
+.ipynb_checkpoints
+__pycache__/
+dataset/cpg_dataset/*
