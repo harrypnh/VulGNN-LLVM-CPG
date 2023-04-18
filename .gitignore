@@ -9,3 +9,6 @@ dataset/llvm_ir/
 .ipynb_checkpoints
 __pycache__/
 dataset/cpg_dataset/*
+*.zip
+*.pkl
+*.pt
