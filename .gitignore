@@ -1,9 +1,7 @@
 .DS_Store
-*.zip
 *.gz
 *.model*
 *.pt
-*.pkl
 dataset/repo_clone
 dataset/error_dump
 dataset/cpg/
